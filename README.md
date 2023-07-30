@@ -14,6 +14,8 @@ To run this project, install `Arduino` Software , then buy Arduino & ultasonic s
 - edit `os.startfile` & `subprocess.call` parameter as your needs. OR you can control different parts of pc software , as long as it supports with python library.
 
 #
+#### For Google API get help from this tutorial
+[![Watch the video]()](https://youtu.be/7ZvgDu2mQP8)
 #
 #### Got help from this tutorial
 [![Watch the video](https://img.youtube.com/vi/c1ttso5tYgA/maxresdefault.jpg)](https://youtu.be/c1ttso5tYgA)
